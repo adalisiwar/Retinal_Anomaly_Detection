@@ -9,19 +9,6 @@ An automated deep learning framework for early detection and multi-class classif
 
 ---
 
-## 📌 Table of Contents
-- [Overview & Motivation](#-overview--motivation)
-- [Key Features](#-key-features)
-- [Supported Pathologies](#-supported-pathologies)
-- [Dataset & Preprocessing](#-dataset--preprocessing)
-- [Model Architectures & Experiments](#-model-architectures--experiments)
-- [Performance & Results](#-performance--results)
-- [Installation & Usage](#-installation--usage)
-- [Future Enhancements](#-future-enhancements)
-- [Contributors](#-contributors)
-
----
-
 ## 💡 Overview & Motivation
 
 Early detection of retinal pathologies is critical to preventing irreversible vision loss. Traditional diagnostic procedures often require specialized medical equipment and expert ophthalmologists, making screening expensive and inaccessible in remote or underserved areas.
