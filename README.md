@@ -1,4 +1,4 @@
-readme_content = """# 👁️ Ocular Disease Detection using Computer Vision & Deep Learning
+# 👁️ Ocular Disease Detection using Computer Vision & Deep Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
